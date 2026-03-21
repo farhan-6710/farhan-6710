@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Farhan Ahmed</h1>
-<h3 align="center">Full Stack MERN Developer 🚀</h3>
+<h1>Hi 👋, I'm Farhan Ahmed</h1>
+<h3 >Full Stack MERN Developer 🚀</h3>
 
 ---
 
