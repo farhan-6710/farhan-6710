@@ -1,14 +1,15 @@
-<h1>Hi 👋, I'm Farhan Ahmed</h1>
-<h3 >Full Stack MERN Developer 🚀</h3>
+# Hi 👋, I'm Farhan Ahmed
+
+### Full Stack MERN Developer 🚀
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack MERN Developer  
-- ⚡ Building scalable web apps using React, Node.js & PostgreSQL  
-- 🔥 Strong focus on performance & clean architecture  
-- 🌱 Currently exploring Ai agents & automation
+* 💻 Full Stack MERN Developer
+* ⚡ Building scalable web apps using React, Node.js & PostgreSQL
+* 🔥 Strong focus on performance & clean architecture
+* 🌱 Currently exploring AI agents & automation
 
 ---
 
