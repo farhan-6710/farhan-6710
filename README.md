@@ -8,7 +8,7 @@
 - 💻 Full Stack MERN Developer  
 - ⚡ Building scalable web apps using React, Node.js & PostgreSQL  
 - 🔥 Strong focus on performance & clean architecture  
-- 🌱 Currently exploring system design & backend optimization  
+- 🌱 Currently exploring Ai agents & automation
 
 ---
 
@@ -16,18 +16,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,postgres,mongodb,redux,firebase,tailwind,git" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
 
 ---
