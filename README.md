@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 * 💻 Full Stack MERN & PERN Developer
-* ⚡ Building scalable web apps using React, Node.js & PostgreSQL
+* ⚡ Building scalable web apps using Next.js, React.js, Node.js, PHP & PostgreSQL.
 * 🔥 Strong focus on performance & clean architecture
 * 🌱 Currently exploring AI agents & automation
 
